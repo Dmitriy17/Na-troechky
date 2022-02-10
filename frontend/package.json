@@ -47,7 +47,7 @@
     "eslint-config-google": "^0.9.1",
     "jest": "^21.2.1",
     "mocha": "^4.0.1",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.0.3"
   }
 }
