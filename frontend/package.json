@@ -5,7 +5,7 @@
   "dependencies": {
     "auth0-js": "^9.0.0",
     "bcryptjs": "^2.4.3",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "dck-react-components": "^1.0.5",
     "dck-redux": "^1.0.5",
     "dck-validators": "^1.0.5",
